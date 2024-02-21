@@ -1,7 +1,5 @@
---- Trang web fake bill free số một VN ---
-#Make By TazukiVN
-#SUPPORT: Not⚡
+Trang web fake bill MB free số một VN
 
-💸Donate: 
+💸Donate 
 -> Paypal: phxnphat@gmail.com
 
